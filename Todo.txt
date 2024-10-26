@@ -1,0 +1,5 @@
+1. Add docstring to all the functions
+2. Custom exceptions
+3. learn raise, with open
+4. json file path not exists
+5. issue raise in make api call

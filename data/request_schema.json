@@ -1,0 +1,15 @@
+{
+    "get_user" : {
+      "endpoint": "/users/"
+    },
+    "create_new_user": {
+      "endpoint": "/users",
+      "body": {
+        "first_name":"santhosh",
+        "last_name":"kumar",
+        "gender":"man",
+        "country":"india",
+        "phone_number":"8099"
+      }
+    }
+  }
